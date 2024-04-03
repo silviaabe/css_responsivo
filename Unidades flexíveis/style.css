@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* h1 {
+  font-size: 48pt;
+  /* 1pt = 1/72 pol
+} */
+
+/* h1, p {
+  font-size: 1em;
+  /* 1em = 16px *
+} */
+
+section {
+  font-size: 32px;
+}
+
+/* h1 {
+  /* font-size: 48px; */
+  /* 48 -> em 
+    48 / 16 = 3em *
+  font-size: 3em;
+} */
+
+/* div {
+  height: 1em;
+  width: 1em;
+  background-color: red;
+} */
+
+h1, p {
+  font-size: 200%;
+}
+
+div {
+  height: 1em;
+  width: 100%;
+  background-color: red;
+}
+
+body {
+  width: 400px;
+}
